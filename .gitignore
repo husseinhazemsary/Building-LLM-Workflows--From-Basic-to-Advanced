@@ -1,0 +1,8 @@
+# Ignore environment secrets
+.env
+
+# Optional: Python & editor extras
+__pycache__/
+*.pyc
+.vscode/
+.idea/
